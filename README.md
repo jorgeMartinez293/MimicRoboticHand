@@ -27,16 +27,16 @@ This project controls a 3D-printed robotic hand using computer vision. It uses M
 
 It is recommended to use Conda to manage dependencies.
 
-**Linux:**
+**Linux/MacOS:**
 ```bash
 conda env create -f src/python/environment_linux.yml
-conda activate hand_control
+conda activate mimic_robotic_hand_env
 ```
 
 **Windows:**
 ```bash
 conda env create -f src/python/environment_win.yml
-conda activate hand_control
+conda activate mimic_robotic_hand_env
 ```
 
 Or install manually via pip:

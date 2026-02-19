@@ -1,4 +1,4 @@
-name: image_processing
+name: mimic_robotic_hand_env
 channels:
   - conda-forge
   - defaults
