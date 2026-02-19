@@ -1,0 +1,20 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+.env
+
+# Video files (Large files)
+*.MP4
+*.mp4
+*.avi
+*.mov
+
+# IDEs
+.vscode/
+.idea/
