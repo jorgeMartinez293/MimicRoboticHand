@@ -52,6 +52,8 @@ pip install opencv-python mediapipe pyserial numpy
 4. Upload the sketch.
 
 **Wiring:**
+- **Power (+5V):** Connect to an external 5V power supply.
+- **Ground (-/GND):** Connect to the external power supply's ground AND the Arduino's GND pin (Common Ground).
 - Thumb Servo: Pin 2
 - Index Servo: Pin 3
 - Middle Servo: Pin 4
